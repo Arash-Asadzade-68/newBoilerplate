@@ -36,7 +36,7 @@
     "helmet": "^3.21.0",
     "i18next": "^19.4.5",
     "i18next-xhr-backend": "^3.2.2",
-    "immer": "^4.0.0",
+    "immer": "^9.0.6",
     "immutable": "^4.0.0-rc.12",
     "lodash": "^4.17.15",
     "next": "^9.4.0",
